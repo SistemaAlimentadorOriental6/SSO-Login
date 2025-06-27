@@ -1,0 +1,18 @@
+# Esta carpeta contendrá todos los screenshots del proyecto
+# Los archivos .gitkeep permiten mantener carpetas vacías en Git
+
+# Estructura esperada:
+# - login-desktop.png
+# - login-mobile.png
+# - dashboard-overview.png
+# - applications-grid.png
+# - app-carrotaller.png
+# - app-inspecciones.png
+# - app-activos.png
+# - admin-dashboard.png
+# - mobile-dashboard.png
+# - tablet-view.png
+# - sso-flow-demo.gif
+# - config-panel.png
+# - monitoring-dashboard.png
+# - app-states.png 
