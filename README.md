@@ -1,10 +1,8 @@
-# 🏢 Enterprise Login - Portal SSO Empresarial
+# 🏢 Login - Portal SSO
 
 <div align="center">
 
-![Enterprise Login](./public/LOGO.webp)
-
-**Portal de autenticación empresarial con Single Sign-On (SSO)**  
+**Portal de autenticación con Single Sign-On (SSO)**  
 *Sistema completo de autenticación, autorización y gestión de aplicaciones empresariales*
 
 [![Next.js](https://img.shields.io/badge/Next.js-15.2-black?logo=next.js)](https://nextjs.org/)
@@ -35,7 +33,7 @@
 ## 🎯 Características Principales {#caracteristicas}
 
 ### ✨ **Para Usuarios**
-- 🔐 **Autenticación Unificada**: Un solo login para acceder a todas las aplicaciones empresariales
+- 🔐 **Autenticación Unificada**: Un solo login para acceder a todas las aplicaciones
 - 📱 **Dashboard Moderno**: Interfaz intuitiva y responsive para gestionar aplicaciones
 - ⭐ **Aplicaciones Favoritas**: Acceso rápido a las herramientas más utilizadas
 - 🔍 **Búsqueda Inteligente**: Encuentra aplicaciones por nombre o categoría
@@ -45,10 +43,8 @@
 
 ### 🛠️ **Para Administradores**
 - 👥 **Gestión de Usuarios**: Control completo de usuarios y permisos
-- 🏢 **Gestión de Aplicaciones**: Administración centralizada de aplicaciones empresariales
-- 📈 **Dashboard Analítico**: Métricas y estadísticas de uso en tiempo real
+- 🏢 **Gestión de Aplicaciones**: Administración centralizada de aplicaciones
 - 🔒 **Control de Acceso**: Sistema granular de permisos y roles
-- 🔍 **Auditoría**: Registro completo de intentos de acceso y actividad
 - 🔧 **Configuración Flexible**: Personalización de políticas de seguridad
 
 ## 📸 Galería de Screenshots {#galeria}
@@ -58,7 +54,7 @@
 <div align="center">
 
 ![Login](./docs/screenshots/login.png)
-*Pantalla de login empresarial del sistema SAO6*
+*Pantalla de login del sistema SAO6*
 
 </div>
 
@@ -69,19 +65,18 @@
 <div align="center">
 
 ![Dashboard](./docs/screenshots/dashboard.png)
-*Dashboard principal con aplicaciones empresariales integradas*
+*Dashboard principal con aplicaciones integradas*
 
 </div>
 
 #### 🎯 **Características Principales**
 - **Búsqueda Inteligente**: Encuentra aplicaciones rápidamente
 - **Aplicaciones Favoritas**: Acceso rápido a herramientas más utilizadas
-- **Estadísticas en Tiempo Real**: Métricas de uso y actividad del sistema
 - **Interfaz Moderna**: Diseño limpio y profesional
 
 ---
 
-### 🚀 **Aplicaciones Empresariales Integradas**
+### 🚀 **Aplicaciones Integradas**
 
 #### 🏢 **Suite de Aplicaciones SAO6**
 
