@@ -1462,19 +1462,10 @@ export default function () {
 
 Este proyecto está bajo la Licencia MIT. Ver el archivo `LICENSE` para más detalles.
 
-## 📞 Soporte
-
-Para soporte técnico o preguntas:
-- 📧 Email: soporte@tuempresa.com
-- 📱 Teléfono: +1 (555) 123-4567
-- 🌐 Documentación: https://docs.tuempresa.com
-
 ---
 
 <div align="center">
 
-**Desarrollado con ❤️ para empresas modernas**
-
-🔐 **Seguro** • 🚀 **Rápido** • 📱 **Responsive** • 🌟 **Moderno**
+**Desarrollado con ❤️ por el equipo de mejora continua**
 
 </div> 
