@@ -3,7 +3,7 @@
 <div align="center">
 
 **Portal de autenticación con Single Sign-On (SSO)**  
-*Sistema completo de autenticación, autorización y gestión de aplicaciones empresariales*
+*Sistema completo de autenticación, autorización y gestión de aplicaciones*
 
 [![Next.js](https://img.shields.io/badge/Next.js-15.2-black?logo=next.js)](https://nextjs.org/)
 [![React](https://img.shields.io/badge/React-19-blue?logo=react)](https://reactjs.org/)
